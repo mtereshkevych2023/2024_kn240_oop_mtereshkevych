@@ -1,4 +1,3 @@
-# Пиклад АБСТРАКЦІЇ
 from abc import ABC, abstractmethod
 
 # Абстрактний клас
